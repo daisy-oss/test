@@ -1,0 +1,27 @@
+.me{
+    color: black;
+    font-size: 13px;
+}
+
+.heading{
+    box-shadow:5px 5px 5px cadetblue;
+    width: 100%;
+    font-size: 21px;
+    margin: 0%;
+
+}
+
+.footer{
+    position: fixed;
+    background-color: #cfa1ee;
+    color: black;
+    width: 100%;
+    font-size: 25px;
+    bottom: 0;
+   line-height:49px ;
+}
+canvas{
+    border:5px solid wheat;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px cadetblue;
+}
